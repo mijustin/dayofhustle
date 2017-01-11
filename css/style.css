@@ -101,7 +101,7 @@ p {
 
 .body-content > .container {
   position: relative;
-  top: 100px;
+  top: 0;
   padding-bottom: 100px;
 }
 
