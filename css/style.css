@@ -180,16 +180,16 @@ button:active {
 }
 
 .img-logo {
-  background-image: url('../img/metal.png');
+  background-image: url('../img/logo.png');
   background-size: contain;
-  width: 50px;
-  height: 90px;
+  width: 250px;
+  height: 148px;
   padding-bottom: 8px;
 }
 
 .img-feature {
   position: relative;
-  background-image: url('../img/feature.png');
+  background-image: url('../img/feature-new.jpg');
   height: 0;
   padding-top: 71.8%;
   margin-top: 80px;
